@@ -1,7 +1,9 @@
-class Data {
-  final String name;
-  final String info;
-  final String price;
+class Models {
+  final List NN;
+  final List LR;
+  final List DT;
+  final List SVM;
+  final List XGBOOST;
 
-  Data(this.name, this.info, this.price);
+  Models(this.NN, this.LR, this.DT, this.SVM, this.XGBOOST);
 }

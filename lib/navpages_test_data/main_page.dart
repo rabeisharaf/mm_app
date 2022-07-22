@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:mm_app/bluetooth/main_page.dart';
 import 'package:mm_app/navpages_test_data/sensors/Sensors.dart';
+import 'package:mm_app/navpages_test_data/testing/testData/main_page.dart';
 import 'SensorsScreen.dart';
-import 'testing/TestPage.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage();
